@@ -50,6 +50,7 @@ Technical Details
 * XDebug
 * PHPUnit 4.8
 * Composer
+* Java 8
 
 We are using the base Ubuntu 14.04 box from Vagrant. If you don't already have it downloaded
 the Vagrantfile has been configured to do it for you. This only has to be done once
